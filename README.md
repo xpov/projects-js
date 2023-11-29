@@ -1,1 +1,1 @@
-# projects-js
+# Projects on JS from course
